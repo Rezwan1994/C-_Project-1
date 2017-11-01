@@ -1,0 +1,47 @@
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\bin\Debug\ClubManagementSystem.exe.config
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\bin\Debug\ClubManagementSystem.exe
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\bin\Debug\ClubManagementSystem.pdb
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.AdminProfile.resources
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.Culbs.resources
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.Form1.resources
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.Precident.resources
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.Profile.resources
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.Registration.resources
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.Properties.Resources.resources
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.csproj.GenerateResource.Cache
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.exe
+C:\Users\SELIM\Documents\Visual Studio 2012\Projects\ClubManagementSystem\ClubManagementSystem\obj\Debug\ClubManagementSystem.pdb
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\bin\Debug\ClubManagementSystem.exe.config
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.exe
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.pdb
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\bin\Debug\ClubManagementSystem.exe
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\bin\Debug\ClubManagementSystem.pdb
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.AdminProfile.resources
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Culbs.resources
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Form1.resources
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Precident.resources
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Registration.resources
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Properties.Resources.resources
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.csproj.GenerateResource.Cache
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\bin\Debug\ClubDatabase.mdf
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\bin\Debug\ClubDatabase_log.ldf
+C:\Users\gadgets planet\Downloads\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Student.resources
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\bin\Debug\ClubManagementSystem.exe.config
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.exe
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.pdb
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\bin\Debug\ClubDatabase.mdf
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\bin\Debug\ClubDatabase_log.ldf
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\bin\Debug\ClubManagementSystem.exe
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\bin\Debug\ClubManagementSystem.pdb
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.AdminProfile.resources
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Culbs.resources
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Form1.resources
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Student.resources
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Precident.resources
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Registration.resources
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.Properties.Resources.resources
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.csproj.GenerateResource.Cache
+C:\Users\gadgets planet\Desktop\SalimProject\ClubManagementSystem\obj\Debug\ClubManagementSystem.ExcilentStudent.resources
